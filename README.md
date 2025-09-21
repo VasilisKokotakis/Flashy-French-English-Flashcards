@@ -52,7 +52,7 @@ images/wrong.png
 
 ## 🎥 Demo Video
 
-See the 3D viewer in action:
+See in action:
 
 ![Demo](demo/demo.gif)
 
