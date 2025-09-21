@@ -54,7 +54,7 @@ images/wrong.png
 
 See the 3D viewer in action:
 
-![Demo](demo/demo.mp4)
+![Demo](demo/demo.gif)
 
 
 ---
