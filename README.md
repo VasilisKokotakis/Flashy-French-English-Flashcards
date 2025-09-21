@@ -48,6 +48,14 @@ images/card_back.png
 images/right.png
 images/wrong.png
 ```
+---
+
+## 🎥 Demo Video
+
+See the 3D viewer in action:
+
+![Demo](demo/demo.mp4)
+
 
 ---
 
