@@ -20,13 +20,13 @@
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/VasilisKokotakis/Flashy-French-English-Flashcards.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd flash-card-project
+cd Flashy-French-English-Flashcards
 ```
 
 3. (Optional) Create a virtual environment and install dependencies:
