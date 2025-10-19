@@ -117,3 +117,7 @@ flash-card-project/
 * Configurable flip time and fonts.
 * Add sound pronunciation for words.
 
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
